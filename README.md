@@ -2,7 +2,11 @@
 
 **ClaimWise** is an end-to-end machine learning system that identifies fraudulent insurance claims using Kaggle datasets. It combines **data preprocessing, predictive modeling, and interactive dashboards** to deliver actionable insights for insurers.  
 
-![System Architecture Diagram](https://via.placeholder.com/800x400?text=ClaimWise+Architecture+Flow) *(Replace with actual diagram)*  
+![image](https://github.com/user-attachments/assets/8550dd92-e2f4-4a01-990f-51e368a005eb)
+
+![image](https://github.com/user-attachments/assets/dfdb9cac-5c5f-485a-81c2-5ac700bb893a)
+
+![image](https://github.com/user-attachments/assets/05312b9e-4a67-416d-8706-0caec651066e)
 
 ## ✨ Key Features  
 
@@ -24,8 +28,7 @@
 
 ##  System Architecture  
 
-
-
+![mermaid-diagram-2025-04-17-130658](https://github.com/user-attachments/assets/0041d40a-6fb6-4513-9f52-b5b767d0bcdb)
 
 ## 🛠️ Tech Stack  
 
